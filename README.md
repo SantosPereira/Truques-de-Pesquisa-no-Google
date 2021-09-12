@@ -1,6 +1,6 @@
 # Truques de Pesquisa no Google
 
-Truques e dicas para um pesquisa mais precisa e eficiente no google.
+Truques e dicas para uma pesquisa mais precisa e eficiente no google.
 
 
 * Quer encontrar exatamente o que escreveu na pesquisa?
